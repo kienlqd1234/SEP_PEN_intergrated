@@ -1,0 +1,33 @@
+#scipy==1.0.0
+#nltk==3.2.5
+
+# Remove PyTorch and transformers dependencies
+# torch
+# tokenizers
+# transformers
+
+# Core requirements for SEP-PEN with OpenAI
+#tensorflow==1.4.0
+#numpy>=1.14.0,<1.15.0
+
+# Compatible versions for Python 3.6
+# Lower transformers version for numpy compatibility
+torch==1.8.1
+transformers==2.11.0
+tokenizers==0.7.0
+
+# OpenAI (older version compatible with Python 3.6)
+openai==0.8.0
+tenacity==7.0.0  # For retry logic with OpenAI API
+
+# Data processing
+pandas==1.1.5  # Last version supporting Python 3.6
+
+# Other requirements
+tqdm==4.64.1
+typing-extensions==4.1.1
+pyyaml==5.4.1
+
+#torch==1.10.2
+#transformers==4.18.0
+#tokenizers<0.13.0
