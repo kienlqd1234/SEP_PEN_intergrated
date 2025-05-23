@@ -2,5 +2,5 @@ _graphs_all_days-5.msgs-20-words-30_word_embed-glove.vmd_in-hedge_alpha-0.5.anne
 check3d
 .cursor
 .vscode
-res
+res/glove.twitter.27B.50d.txt
 log
