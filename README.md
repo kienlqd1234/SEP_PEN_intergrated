@@ -34,4 +34,4 @@ The default code corresponds to ACL18.
 For DJIA, simply replace `Executor` to `Executor_d` in `src/Main.py`.
 
 ## Result
-All information and results are detailed in the report file `[KL_2025_KTPM004]_BaoCao.pdf`
+All information and results are detailed in the report file `BaoCao.pdf`
