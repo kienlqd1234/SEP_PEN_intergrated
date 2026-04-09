@@ -97,20 +97,5 @@ We evaluate the **Cognitive Causal Dual-Stream (CDP-PEN)** framework on:
 | DP-SRL | 58.28 | 0.155 | 58.89 | 0.227 |
 | **CDP-PEN** | **58.54** | **0.170** | **59.31** | **0.220** |
 
----
 
-## 📈 Performance Comparison
-
-### ACL18 Accuracy
-```mermaid
-bar
-    title ACL18 Accuracy (%)
-    "Random" : 48.76
-    "RF" : 50.04
-    "HAN" : 54.33
-    "StockNet" : 54.55
-    "PEN" : 54.99
-    "Ca-TSU" : 57.44
-    "DP-SRL" : 58.28
-    "CDP-PEN" : 58.54
 All information and results are detailed in the report file `BaoCao.pdf`
